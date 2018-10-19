@@ -17,6 +17,7 @@ class ViewController: UIViewController {
         
         print("<#T##items: Any...##Any#>")
         print("커밋 테스트")
+        print("원격 커밋 테스트")
     }
 
 }
